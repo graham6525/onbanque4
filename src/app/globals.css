@@ -292,7 +292,7 @@ ul {
 
 /* Carte de Solde (Dégradé Vert) */
 .balance-card {
-  background: linear-gradient(135deg, #2ecc71, #15b565);
+  background: linear-gradient(135deg, #0f7038, #3215b5);
   border-radius: 25px;
   padding: 25px;
   color: #fff;
@@ -406,7 +406,7 @@ ul {
   width: 45px;
   height: 45px;
   background: #f1fcf7;
-  color: #15b565;
+  color: #3215b5;
   border-radius: 50%;
   display: flex;
   justify-content: center;
@@ -437,7 +437,7 @@ ul {
 
 .sim-tag {
   background: #f1fcf7;
-  color: #15b565;
+  color: #3215b5;
   padding: 4px 12px;
   border-radius: 100px;
   font-size: 10px;
@@ -453,7 +453,7 @@ ul {
 }
 
 .sim-value-big { font-size: 28px; font-weight: 700; color: #000; }
-.sim-value-green { font-size: 24px; font-weight: 700; color: #15b565; }
+.sim-value-green { font-size: 24px; font-weight: 700; color: #3215b5; }
 
 /* Grille des Partenaires (en Flexbox) */
 .partners-grid {
@@ -580,7 +580,7 @@ ul {
 }
 
 .bank-item:hover {
-  border-color: #15b565;
+  border-color: #3215b5;
   background: #f1fcf7;
 }
 
@@ -1034,7 +1034,7 @@ ul {
   width: 80px;
   height: 80px;
   background: #f1fcf7;
-  color: #15b565;
+  color: #3215b5;
   border-radius: 50%;
   display: flex;
   justify-content: center;
@@ -1088,7 +1088,7 @@ ul {
   width: 120px;
   height: 120px;
   border: 8px solid #f0f0f0;
-  border-top: 8px solid #15b565; /* Vert Onbanque */
+  border-top: 8px solid #3215b5; /* Vert Onbanque */
   border-radius: 50%;
   animation: spin 1.5s linear infinite;
   margin-bottom: 30px;

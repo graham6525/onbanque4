@@ -16,7 +16,7 @@ useEffect(() => {
       const data = await res.json();
       if (data.balance) setLiveBalance(data.balance);
     } catch (err) {
-      console.error(err);
+      console.error(err); 
     }
   };
  
@@ -48,7 +48,7 @@ useEffect(() => {
           <span className="notif-dot"></span>
         </button>
       </header>
-
+ 
       {/* Carte Solde */}
       <section className="balance-card">
         <div className="balance-label">
