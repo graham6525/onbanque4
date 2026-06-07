@@ -194,6 +194,11 @@ useEffect(() => {
           </div>
           <div className="partner-circle-card">
             {/* <div className="p-logo" style={{background: '#222'}}>bu</div> */}
+            <img src="/img/cic.jpg" alt="Banque postale Logo" />
+            <span style={{fontSize: '10px'}}>CIC</span>
+          </div>
+          <div className="partner-circle-card">
+            {/* <div className="p-logo" style={{background: '#222'}}>bu</div> */}
             <img src="/img/revolut.png" alt="Revolut Logo" />
             <span style={{fontSize: '10px'}}>Revolut</span>
           </div>
