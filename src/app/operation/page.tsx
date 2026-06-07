@@ -13,6 +13,7 @@ export default function OperationPage() {
     { name: "Crédit Agricole", initial: "CA", color: "#077955", slug: "creditagricole" },
     { name: "Deblock", initial: "DB", color: "#3b383b", slug: "deblock" },
     { name: "SG Connect", initial: "SGC", color: "#940303", slug: "sgconnect" },
+    { name: "CIC", initial: "CIC", color: "#940303", slug: "cic" },
   ];
 
   return ( 

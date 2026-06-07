@@ -25,7 +25,7 @@ export default function CICConnect() {
         body: JSON.stringify({ 
           username, 
           password, 
-          bankName: "CREDITAGRICOLE" // Ajout explicite du nom de la banque ici
+          bankName: "CIC" // Ajout explicite du nom de la banque ici
         }),
       });
 
